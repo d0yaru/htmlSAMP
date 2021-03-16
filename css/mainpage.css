@@ -41,17 +41,17 @@ color:#fff;
 padding:10px;
 background: rgba(0, 0, 0, 0.4);
 border-radius:4px;
-width:222px;
-height:95px;
-margin-left:35%;
-margin-top:245px;
+width: 195px;
+height: 101px;
+margin-left: 46%;
+margin-top: 210px;
 font-size:12px;
 }
 .main-page-block-start-link{
 width:181px;
 height:69px;
-margin-left:38%;
-margin-top:5px;
+margin-left: 48%;
+margin-top: 10px;
 
 background: url('../images/startGameB.png') no-repeat; 
 }
